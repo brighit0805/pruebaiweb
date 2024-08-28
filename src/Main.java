@@ -58,6 +58,7 @@ public class Main {
 
         for (Persona persona : listaPersonas) {
             System.out.println(persona.getName() + " " + persona.getAge());
+            System.out.println("Lista personas");
         }
 
         HashMap<String, String> listaPersonasDNI = new HashMap<String, String>();
