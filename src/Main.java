@@ -60,6 +60,7 @@ public class Main {
             System.out.println(persona.getName() + " " + persona.getAge());
             System.out.println("Lista personas");
         }
+        Facultad sociales = new Facultad();
 
         HashMap<String, String> listaPersonasDNI = new HashMap<String, String>();
         listaPersonasDNI.put("Carlos", "12346758");
