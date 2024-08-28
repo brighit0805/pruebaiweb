@@ -57,7 +57,7 @@ public class Persona {
         this.name = name;
     }
 
-    public int getAge() {
+    public int  getAge() {
         return age;
     }
 
