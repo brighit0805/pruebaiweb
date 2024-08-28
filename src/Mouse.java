@@ -8,6 +8,7 @@ public class Mouse{
     public void setDpi(int dpi) {
         this.dpi = dpi;
     }
+
     public String moverMouser(){
         return "Se movió";
     }
