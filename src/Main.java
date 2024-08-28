@@ -62,6 +62,7 @@ public class Main {
         }
         Facultad sociales = new Facultad();
 
+
         HashMap<String, String> listaPersonasDNI = new HashMap<String, String>();
         listaPersonasDNI.put("Carlos", "12346758");
         listaPersonasDNI.put("Briyik", "85296374");
